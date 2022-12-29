@@ -12,7 +12,7 @@ body{
 }
 
 #start{
-    display: none;
+    display: block;
 }
 
 section{
